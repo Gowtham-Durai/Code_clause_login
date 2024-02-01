@@ -5,7 +5,7 @@ import 'firebase/compat/database';
 import { getAuth ,GoogleAuthProvider} from 'firebase/auth';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBjoKSBiHbBIn3HvNKTyP9rWJvsFgB_IAE",
+  apiKey: "",
   authDomain: "resume-builder-44e2c.firebaseapp.com",
   projectId: "resume-builder-44e2c",
   storageBucket: "resume-builder-44e2c.appspot.com",
